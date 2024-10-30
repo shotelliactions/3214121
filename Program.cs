@@ -10,7 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace pipelines_dotnet_core
-{
+{ //change
     public class Program
     {
         public static void Main(string[] args)
